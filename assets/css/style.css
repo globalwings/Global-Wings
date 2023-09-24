@@ -310,7 +310,7 @@
   
   .header.active {
     position: fixed;
-    background-color: #037a7e;
+    background-color: #00ACB1;
     animation: headerActive 0.5s ease forwards;
   }
   
