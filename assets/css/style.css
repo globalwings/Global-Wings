@@ -503,7 +503,7 @@
   .service-card .card-text { margin-block: 20px 15px; }
   
   .service-card .btn-circle {
-    color: var(--verdigris);
+    color: white;
     font-size: 2rem;
     padding: 18px;
     border-radius: var(--radius-circle);
@@ -515,7 +515,15 @@
     background-color: var(--verdigris);
     color: var(--white);
   }
-  
+
+  hr {
+    color: #ffffff;
+    width: 95%;
+    border-style: solid;
+    border-width: 2px;
+    margin: 0px auto;
+}
+
   
   
   
